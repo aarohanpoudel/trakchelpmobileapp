@@ -1,1 +1,2 @@
 # trakchelpmobileapp
+npk run
